@@ -32,9 +32,9 @@ export NOTION_DATABASE_ID=<Your Notion's Database ID to Add todo>
 ```
 
 # todoの追加
-todo 卒研日誌 仕上げる
+notion_todo 卒研日誌 仕上げる
 
 # 開発中
-todo list
+notion_todo list
 
 ```
